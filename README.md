@@ -10,7 +10,7 @@ WEBHOOKS: 5104
 WALLET-API: 5150
 
 
-http://qredit.seednode.sh
+http://qredit.seednode.sh:5103/api
 
-http://qredit.relaynode.sh
+http://qredit.relaynode.sh:5103/api
 
