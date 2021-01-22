@@ -14,3 +14,4 @@ http://qredit.seednode.sh:5103/api
 
 http://qredit.relaynode.sh:5103/api
 
+http://qredit.myapi.sh:5103/api
