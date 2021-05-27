@@ -1,8 +1,18 @@
 # peers
 
 
-P2P port: 4101
+P2P port: 5102
 
-API port: 4103
+API port: 5103
 
-WALLET-API: 4140
+WEBHOOKS: 5104
+
+WALLET-API: 5150
+
+
+seednode: https://seednode.sh/api
+
+explorer: https://explorer.sh
+
+
+
