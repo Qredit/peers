@@ -10,9 +10,9 @@ WEBHOOKS: 5104
 WALLET-API: 5150
 
 
-seednode: https://seednode.sh/api
+seednode: https://qredit.cloud/api
 
-explorer: https://explorer.sh
+explorer: https://explorer.qredit.io
 
 
 
